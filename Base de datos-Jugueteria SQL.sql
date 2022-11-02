@@ -2,7 +2,7 @@
 /* Creamos la base de datos jugueteria y la seleccionamos */
 
 CREATE SCHEMA jugueteria;
-USE jugueteria2;
+USE jugueteria;
 
 /* Empezamos a crear la tablas de las bases de datos */
 
