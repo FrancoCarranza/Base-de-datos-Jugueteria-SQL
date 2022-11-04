@@ -48,7 +48,7 @@ JOIN proveedores AS p
 ON(j.id_proveedor=p.id_proveedor)
 );
 
-/* Creamos la cuarta vista la cual muesta  los movimientos realizados
+/* Creamos la cuarta vista la cual muestra  los movimientos realizados
  con la informacion de los choferes que realizaron cada movimiento ordenado por fecha*/
 
 CREATE VIEW movimientos_info AS(
